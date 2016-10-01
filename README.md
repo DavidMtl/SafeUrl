@@ -1,2 +1,3 @@
 # SafeUrl
-Convert .safenet URL to safe:// URL when run on SAFE Beaker browser
+Convert URL to safe protocol when run on SAFE Beaker Browser.
+Convert URL to http protocol when run on other browser.
